@@ -9,9 +9,9 @@ Run these commands:
 `sudo apt install npm`
 
 
-`npm install`
+sudo`npm install`
 
-`node app.js`
+sudo`node app.js`
 
 or Run by docker compose
 
