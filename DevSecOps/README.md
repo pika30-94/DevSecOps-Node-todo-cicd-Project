@@ -68,10 +68,10 @@
             http://34.207.58.19:8080/sonarqube-webhook/
         ```
 
-        ![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/b9ef2301-b8ff-46f4-a457-6345d5e2dab6)
+        ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569154485/e40c2233-7124-4540-8c65-7eefafeba5c7.png)
 
 
-        ![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/08a33164-f6a6-4c5d-8a34-7091cf8a5745)
+        ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569229459/e0a7822b-12d4-49cc-bafa-c3651d707f13.png)
 
 #
 
