@@ -126,6 +126,8 @@
 10) At last run the pipeline and after sometime your code is deployed using DevSecOps.
 
 ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709567925365/c27c9cd6-05e3-4dbb-a7bd-82ed652b0754.png)
+
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569731072/18dd3452-05a3-4f64-b273-83e461d2b01a.png?auto=compress,format&format=webp)
 #
 
 <b>Congratulations!!! You have done it</b>
