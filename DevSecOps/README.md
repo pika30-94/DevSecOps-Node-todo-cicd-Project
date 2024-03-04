@@ -1,5 +1,7 @@
 # End to End DevSecOps Project for DevOps Engineers
 
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709575574725/94d5111a-0cbb-4cdb-90d1-0ab973deeffb.webp?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp)
+
 ### In this project, we will learn about  DevOps and DevSecOps tools in one project:
 
 ### Tools Covered:
@@ -112,14 +114,18 @@
     -  Select <b><i><u>GitHub Project</u></i></b> and paste your GitHub repository link.
     -  Scroll down and in <b><i><u>Pipeline</u></i></b> section select <b><i><u>Pipeline script from SCM</u></i></b>, because our Jenkinsfile is present on GitHub.
 
-    ![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/39af1b22-28aa-4e36-b98c-0e7f120b5fbf)
+    ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569389847/84d0b6dd-8a70-4c91-91c7-8b013ad09dc6.png?auto=compress,format&format=webp)
 
-    ![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/b7153556-f847-40ee-9a98-ff3609930abd)
+    ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569512657/eaded27d-7543-4100-ba9d-77254f05876b.png?auto=compress,format&format=webp)
+
+    ![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709569560080/201ea968-9568-4e90-ae7a-fd75a39a80b6.png?auto=compress,format&format=webp)
+
+   
 #
 
 10) At last run the pipeline and after sometime your code is deployed using DevSecOps.
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/f566d980-82ee-4ad6-9ff3-cb970885560e)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709567925365/c27c9cd6-05e3-4dbb-a7bd-82ed652b0754.png)
 #
 
 <b>Congratulations!!! You have done it</b>
@@ -127,26 +133,7 @@
 - If you find any issue during the execution of this project, let me know on LinkedIn
 
 - Happy Learning :)
-#
 
-## These are our community Links
-  <a href="https://discord.com/channels/824622549182185493/824622550327623692">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" />
-  </a>&ensp;
-    <a href="https://t.me/trainwithshubham">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" />
-  </a> 
-  </a>&ensp;
 
-  <a href="https://www.linkedin.com/in/shubhamlondhe1996/">
-    <img width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>&ensp;
-
- <a href="https://www.youtube.com/@TrainWithShubham">
-  <img width="30px" src="https://i.pinimg.com/originals/46/02/cb/4602cbc18967da9c1eba7452905cd99b.png" />
-  </a>&ensp;
-
-  <a href="https://chat.whatsapp.com/FvRlAAZVxUhCUSZ0Y1s7KY">
-  <img width="30px" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-icon.svg" />
-</a>&ensp;
+### ##### For further insights, please visit my Hashnode blog: [Link to my Hashnode blog](https://radhe123.hashnode.dev/project-building-a-comprehensive-devsecops-cicd-pipeline-for-nodejs-todo-application)
 
