@@ -40,7 +40,7 @@
 
 1)  Access Jenkins UI and setup Jenkins
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/1eec417e-95ab-4497-ad31-443ecd6b999e)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709492443443/a929feef-80f0-4ac6-857e-5c42aa797500.png)
 
 #
 
@@ -77,13 +77,13 @@
 
 4) Go to Jenkins UI <b><i><u> Manage Jenkins </u></i></b>, then <b><i><u> Credentials </u></i></b> and add SonarQube Credentials.
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/f6db72ec-7d8c-4f4c-ae7a-55d99dd20ce9)
+![image](![image](https://github.com/Akashdhengale/node-todo-cicd/assets/145600867/7c1582f7-fed7-4853-95e1-4e78e47bf632)
 
 #
 
 5) Now, It's time to integrate SonarQube Server with Jenkins, go to <b><i><u> Manage Jenkins </u></i></b>, then <b><i><u> System </u></i></b> and look for <b><i><u> SonarQube Servers </u></i></b> and add SonarQube.
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/54849cb2-fe56-4acd-972d-3057a0eb3deb)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709568464904/d0bebc90-f459-4b8d-8963-7ab5bbccb7a0.png)
 
 #
 
@@ -91,19 +91,19 @@
 
 > Note: Add name as ```Sonar```
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/1fe926f6-a844-42d4-bce4-62193dde6640)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709568701080/8466bdd9-0c0e-4c7b-bbe8-317f5543ad54.png)
 
 7) Integrate OWASP with Jenkins, go to <b><i><u> Manage Jenkins </u></i></b>, then <b><i> tools </i></b>, look for <b><i><u>Dependency-Check installations</u></i></b> and add Dependency-Check.
 
 > Note: Add name as ```dc```
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/14516995-0c96-4110-bb96-97a37a9fe57d)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709568823781/ff27b469-7a14-4907-87db-34a33ab87a9d.png)
 
 #
 
 8) For trivy, we have already installed it, in pre-reuisites.
 
-![image](https://github.com/DevMadhup/node-todo-cicd/assets/121779953/0fcd1620-bd64-4286-bc13-f6652d4527c6)
+![image](https://cdn.hashnode.com/res/hashnode/image/upload/v1709568982133/8d8afee9-59ba-4103-8e29-87dfe5c5f734.png)
 
 #
 
